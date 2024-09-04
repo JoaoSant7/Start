@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens & Ferramentas</h3>
+<h3 align="center">🛠 Linguagens & Ferramentas</h3>
 
 ###
 
