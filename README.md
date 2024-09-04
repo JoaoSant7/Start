@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="center">Sobre ✠ Mim</h3>
+<h3 align="center">Sobre ✠ Mim</h2>
 
 ###
 
